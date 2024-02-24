@@ -40,7 +40,7 @@ graph TD;
     Interview_Ends --> Generate_Results;
 ```
 > [!TIP]
-> If you want to take a look at full picture of online recruitemt process, Visit Here https://shorturl.at/mnHQU.
+> If you want to take a look at full picture of online recruitemt process, Visit Here https://bit.ly/DarwinBox_Assessments.
 
 <summary>Sailent Features of Darwin-View</summary>  
 </br>  

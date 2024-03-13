@@ -45,7 +45,7 @@ graph TD;
 <summary>Sailent Features of Darwin-View</summary>  
 </br>  
 
-- [ ] Creates Assessment Platform for 1:1 Interview Session.  
+- [X] Creates Assessment Platform for 1:1 Interview Session.  
 - [ ] Extract speech from candidate  which are answered, Extract speech from recruiter as well and outputs the answer relevance rate for total interview from the candidate data.  
 - [ ] Includes candidate confidence rate, average answer speed, correctness, test statistics etc.
 - [ ] Recommends the improvements/skill to work on from interview to candidate.
